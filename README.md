@@ -1,5 +1,9 @@
 ### Olá! Sou o Gustavo Santos 👋
 
+<div>
+  <a href="https://github.com/gustavo-devfull">
+    </div>
+
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Senac SP
 - 🌱 Estou aprendendo Python na Cod3r e Udemy
 - 👯 Finalizando um curso de Javascript na Cod3r
