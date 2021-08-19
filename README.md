@@ -1,8 +1,8 @@
 ### Olá! Sou o Gustavo Santos 👋
  <div>
   <a href="https://github.com/gustavo-devfull">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-defull&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-defull&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-devfull&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-devfull&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Senac SP
