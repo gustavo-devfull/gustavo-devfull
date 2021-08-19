@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Sou o Gustavo Santos 👋
 
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Senac SP
 - 🌱 Estou aprendendo Python na Cod3r e Udemy
