@@ -1,17 +1,17 @@
 ### Olá! Sou o Gustavo Santos 👋
 
 
-- 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Senac SP
+- 🔭  Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Senac SP
 
-- 🌱 Estou aprendendo Python na Cod3r e Udemy
+- 🌱  Estou aprendendo Python na Cod3r e Udemy
 
-- 👯 Finalizando um curso de Javascript na Cod3r
+- 👯  Finalizando um curso de Javascript na Cod3r
 
-- 🤔 Gostaria de contribuir com projetos de app
+- 🤔  Gostaria de contribuir com projetos de app
 
-- 💬 Minha experiência como designer vai me ajudar nos meus desenvolvimentos de forma relevante?
+- 💬  Minha experiência como designer vai me ajudar nos meus desenvolvimentos de forma relevante?
 
-- 📫 Você me acha facilmente em: gutopc@gmail.com
+- 📫  Você me acha facilmente em: gutopc@gmail.com
 
 
  <div>
