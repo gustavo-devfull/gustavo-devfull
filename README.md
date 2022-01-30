@@ -1,11 +1,11 @@
 ### Olá! Sou o Gustavo Santos 👋
 
 
-- 🔭  Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Senac SP
+- 🔭  Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Senac SP
 
-- 🌱  Estou aprendendo Python na Cod3r e Udemy
+- 🌱  Estou aprendendo Web Moderno com JavaScript COMPLETO na Cod3r
 
-- 👯  Finalizando um curso de Javascript na Cod3r
+- 👯  Finalizando curso de Go (Golang) na Cod3r
 
 - 🤔  Gostaria de contribuir com projetos de app
 
