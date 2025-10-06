@@ -3,10 +3,6 @@
 
 - 🔭  Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac SP
 
-- 🌱  Estudando Web Moderno com JavaScript COMPLETO na Cod3r
-
-- 👯  Finalizando curso de Go (Golang) na Cod3r
-
 - 🤔  Gostaria de contribuir com projetos de app
 
 - 💬  Minha experiência como designer vai me ajudar nos meus desenvolvimentos de forma relevante?
